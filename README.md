@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BARONIGHTJ
+- 👋 Hi, I’m Joesenchia Santoso Tan
 - 👀 I’m interested in anything (not only programming)
-- 🌱 I’m currently learning C, C++, Phyton, Java, Kotlin, HTML, CSS
+- 🌱 I’m currently learning C, C++, Python, Java, Kotlin, HTML, CSS
 - 💞️ I’m looking to collaborate on anything (only programming)
 - 📫 Reach me at joesenchiasantosotan@gmail.com
 
